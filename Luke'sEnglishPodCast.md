@@ -4,3 +4,5 @@
 * typical
 * Rubbish
 * patronising
+* episode
+* mixture
